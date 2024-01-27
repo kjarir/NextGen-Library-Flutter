@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532812735133",
+    "project_id": "nextgen-app-50e8a",
+    "storage_bucket": "nextgen-app-50e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532812735133:android:7d9ef10b1093ef44b66a74",
+        "android_client_info": {
+          "package_name": "com.example.nextgen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIRMRYt0NsjFlqwU_5McP7WekmJYpDHPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
